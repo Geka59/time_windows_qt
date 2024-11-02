@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Ubuntu-Bold.ttf</file>
+    <file>Ubuntu-Medium.ttf</file>
+    <file>icons8-down-arrow-60.png</file>
+    <file>protection.png</file>
+  </qresource>
+</RCC>
